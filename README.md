@@ -1,0 +1,2 @@
+# TUBITAK_2209_A_Quadcopter_Attitude_Control_Firmware
+ This repository contains the source code of the project "Modeling and Control of Four Rotor Aerial Vehicle for Increased Aggressive Maneuverability", which is entitled to receive funding and support by TUBITAK pursuant to TUBITAK 2209-A University Students Research Projects Support Program. The main objective of the project is to design and implement a four rotor unmanned aerial vehicle which is able to perform agressive maneuvers with ensured stability.
